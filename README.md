@@ -1,5 +1,5 @@
 # Hey, I'm Lucas Vitiello and a web developer
-- I have knowledge especially in <strong>PHP</strong>, <strong>JS</strong>, <strong>TS</strong>, <strong>NodeJS</strong>, <strong>Angular</strong>, <strong>Laravel</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>, <strong>MSQL</strong>.
+- I have knowledge especially in <strong>PHP</strong>, <strong>JS</strong>, <strong>TS</strong>, <strong>NodeJS</strong>, <strong>Angular</strong>, <strong>Laravel</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>, <strong>MYSQL</strong>.
 - I currently work with <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>, <strong>HTML/CSS</strong>, <strong>SQLSRV</strong>.
 
 <div>
