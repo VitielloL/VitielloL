@@ -12,7 +12,10 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-## I currently work with -->
+## I currently work with 
+![Sass Badge](https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-->
 
 <div>
   <a href="https://github.com/vitielloL"/>
