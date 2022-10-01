@@ -8,10 +8,8 @@
 <div style="display: inline_block">
   <a 
     href="https://www.w3schools.com/html/" 
-    target="_blank"><img 
-    
-    alt="html5" 
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    target="_blank">
+      <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
   <img alt="sass" src="https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
