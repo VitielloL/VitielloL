@@ -2,7 +2,7 @@
 
 - I already worked with <strong>SCRUM</strong>, <strong>PHP</strong>, <strong>JS</strong>, <strong>TS</strong>, <strong>NodeJS</strong>, <strong>Angular</strong>, <strong>Laravel</strong>, <strong>HTML/CSS/SCSS/BOOTSTRAP</strong>, <strong>SQLSRV</strong>, <strong>MYSQL</strong>.
 - I currently work with <strong>SCRUM</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>, <strong>HTML/CSS/SCSS/BOOTSTRAP</strong>, <strong>SQLSRV</strong>, <strong>MYSQL</strong>.
-- 
+
 <!-- ## I already worked with
 
 <div style="display: inline_block">
