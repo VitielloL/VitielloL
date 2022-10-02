@@ -164,8 +164,6 @@
   </a>
 </div>
 
-<br/>
-
 ## Git Status
 
 <div>
