@@ -8,6 +8,7 @@
     target="_blank">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
+  <a href="wwww.google.com.br" target="blank">teste</a>
   <img alt="sass" src="https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -43,19 +44,3 @@
   <a href="https://www.instagram.com/vitiellolucas/" target="_blank" rel="noopener" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-
-
-<!-- 
-[ok]php
-[ok]js
-[ok]ts
-[ok]node js
-[ok]angular
-[ok]laravel
-[ok]html
-[ok]css
-[ok]sass
-[ok]bootstrap
-[ok]sqlsrv
-[ok]mysql
-scrum  -->
