@@ -95,7 +95,7 @@
   </a>    
 </div>
 
-## Technologies I work
+## Technologies I work on
 <div style="display: inline_block">
   <a
     href="https://www.php.net/"
