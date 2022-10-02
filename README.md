@@ -1,9 +1,6 @@
-# Hey, I'm Lucas Vitiello a web developer
-
-- I already worked with <strong>SCRUM</strong>, <strong>PHP</strong>, <strong>JS</strong>, <strong>TS</strong>, <strong>NodeJS</strong>, <strong>Angular</strong>, <strong>Laravel</strong>, <strong>HTML/CSS/SCSS/BOOTSTRAP</strong>, <strong>SQLSRV</strong>, <strong>MYSQL</strong>.
-- I currently work with <strong>SCRUM</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, <strong>JS</strong>, <strong>HTML/CSS/SCSS/BOOTSTRAP</strong>, <strong>SQLSRV</strong>, <strong>MYSQL</strong>.
-
-## I already worked with
+# Hey, I'm Lucas Vitiello a developer
+<!-- I already worked with -->
+## Technologies I've worked on
 
 <div style="display: inline_block">
   <a 
@@ -23,9 +20,14 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
   <img alt="sqlsrv" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />  
+  <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
+  <img alt="microsoftteams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />  
+  <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
+  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 
-## I currently work with 
+## Technologies I work
 
 
 
