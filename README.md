@@ -166,6 +166,8 @@
 
 <br/>
 
+## Git Status
+
 <div>
   <a href="https://github.com/vitielloL"/>
   <img 
@@ -178,6 +180,7 @@
   />
 </div>
 
+## Contats
 <div>
   <a 
     href="https://www.linkedin.com/in/lucas-vitiello-4b94b4172/" 
