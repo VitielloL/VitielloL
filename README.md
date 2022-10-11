@@ -1,7 +1,7 @@
 # Hey, I'm Lucas Vitiello a developer
 <!-- I already worked with -->
 ## Technologies I've worked on
-<details><summary>click for show more</summary>
+<details><summary>click to show more</summary>
 <br>
 <div style="display: inline_block">
   <a
