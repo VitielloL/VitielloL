@@ -97,6 +97,7 @@
 
 ## Technologies I work on
 <div style="display: inline_block">
+  <button id="teste"> oi </button>
   <a
     href="https://www.php.net/"
     target="_blank">
@@ -198,3 +199,7 @@
     </a>
 </div>
 
+ <script>
+  const teste = document.getElementById('teste');
+  console.log(teste)
+ </script>
