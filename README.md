@@ -1,8 +1,7 @@
 # Hey, I'm Lucas Vitiello a developer
 <!-- I already worked with -->
-<<<<<<< HEAD
-<details><summary>## Technologies I've worked on</summary></details>
-
+## Technologies I've worked on
+<details><summary>
 <div style="display: inline_block">
   <a
     href="https://www.php.net/"
@@ -95,7 +94,7 @@
       <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>    
 </div>
-
+</summary></details>
 ## Technologies I work on
 <div style="display: inline_block">
   <a
