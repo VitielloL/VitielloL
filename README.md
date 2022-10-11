@@ -95,6 +95,7 @@
   </a>    
 </div>
 </details>
+
 ## Technologies I work on
 <div style="display: inline_block">
   <a
