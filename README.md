@@ -97,7 +97,6 @@
 
 ## Technologies I work on
 <div style="display: inline_block">
-  <button id="teste"> oi </button>
   <a
     href="https://www.php.net/"
     target="_blank">
@@ -198,8 +197,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
-
- <script>
-  const teste = document.getElementById('teste');
-  console.log(teste)
- </script>
