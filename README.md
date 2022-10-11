@@ -1,5 +1,6 @@
 # Hey, I'm Lucas Vitiello a developer
 <!-- I already worked with -->
+<<<<<<< HEAD
 <details><summary>## Technologies I've worked on</summary>
 
 <div style="display: inline_block">
