@@ -1,6 +1,6 @@
 # Hey, I'm Lucas Vitiello a developer
 <!-- I already worked with -->
-## Technologies I've worked on
+<details><summary>## Technologies I've worked on</summary>
 
 <div style="display: inline_block">
   <a
@@ -94,7 +94,7 @@
       <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>    
 </div>
-
+</details>
 ## Technologies I work on
 <div style="display: inline_block">
   <a
