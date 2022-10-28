@@ -169,7 +169,7 @@
 ## Git Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitielloL)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitielloL&count_private=true)
 
 <div>
   <a href="https://github.com/vitielloL"/>
