@@ -101,7 +101,8 @@
   <a
     href="https://www.php.net/"
     target="_blank">
-      <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img alt="php" src="assets/php.svg" />
+      <!-- <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
   </a>
   <a
     href="https://laravel.com/"
