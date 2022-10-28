@@ -7,17 +7,17 @@
   <a
     href="https://www.php.net/"
     target="_blank">
-      <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img alt="php" src="assets/php.svg" />
   </a>
   <a
     href="https://laravel.com/"
     target="_blank">
-      <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img alt="laravel" src="assets/laravel.svg" />
   </a>
   <a
     href="https://nodejs.org/en/"
     target="_blank">
-      <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img alt="nodejs" src="assets/node.js" />
   </a>
   <a
     href="https://www.javascript.com/"
@@ -74,16 +74,16 @@
     target="_blank">
       <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
   </a>
-  <a
+  <!-- <a
     href="https://www.microsoft.com/pt-br/microsoft-teams"
     target="_blank">
-      <img alt="microsoftteams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-  </a>
-  <a
+      <img alt="microsoftteams" src="assets/teams" />
+  </a> -->
+  <!-- <a
     href="https://discord.com/"
     target="_blank">
-      <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
-  </a>
+      <img alt="discord" src="assets/discord" />  
+  </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
@@ -150,16 +150,16 @@
     target="_blank">
       <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
   </a>
-  <a
+  <!-- <a
     href="https://www.microsoft.com/pt-br/microsoft-teams"
     target="_blank">
       <img alt="microsoftteams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-  </a>
-  <a
+  </a> -->
+  <!-- <a
     href="https://discord.com/"
     target="_blank">
       <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  
-  </a>
+  </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
