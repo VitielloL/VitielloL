@@ -17,82 +17,82 @@
   <a
     href="https://nodejs.org/en/"
     target="_blank">
-      <img alt="nodejs" src="assets/node.js" />
+      <img alt="nodejs" src="assets/nodejs.svg" />
   </a>
   <a
     href="https://www.javascript.com/"
     target="_blank">
-      <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img alt="javascript" src="assets/javascript.svg" />
   </a>
   <a
     href="https://angular.io/"
     target="_blank">
-      <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  
+      <img alt="angular" src="assets/angular.svg" />  
   </a>
   <a
     href="https://www.typescriptlang.org/"
     target="_blank">
-      <img alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img alt="typescript" src="assets/typescript.svg" />
   </a>
   <a
     href="https://www.microsoft.com/pt-br/sql-server"
     target="_blank">
-      <img alt="sqlsrv" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+      <img alt="sqlserver" src="assets/sqlserver.svg" />
   </a>
   <a
     href="https://www.mysql.com/"
     target="_blank">
-      <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
+      <img alt="mysql" src="assets/mysql.svg" />  
   </a>
   <a
     href="https://www.mongodb.com/"
     target="_blank">
-      <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
+      <img alt="mongodb" src="assets/mongodb.svg" />  
   </a>
   <a
     href="https://getbootstrap.com/"
     target="_blank">
-      <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img alt="bootstrap" src="assets/bootstrap.svg" />
   </a>
   <a 
     href="https://www.w3schools.com/html/" 
     target="_blank">
-      <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img alt="html5" src="assets/html5.svg" />
   </a>
   <a
     href="https://sass-lang.com/"
     target="_blank">
-      <img alt="sass" src="https://img.shields.io/badge/Sass-563D7C?style=for-the-badge&logo=sass&logoColor=white"/>
+      <img alt="sass" src="sass.svg"/>
   </a>
   <a
     href="https://www.w3schools.com/css/"
     target="_blank">
-      <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img alt="css" src="assets/css.svg" />
   </a>
   <a
     href="https://trello.com/"
     target="_blank">
-      <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />  
+      <img alt="trello" src="assets/trello.svg" />  
   </a>
   <!-- <a
     href="https://www.microsoft.com/pt-br/microsoft-teams"
     target="_blank">
-      <img alt="microsoftteams" src="assets/teams" />
+      <img alt="microsoftteams" src="assets/teams.svg" />
   </a> -->
   <!-- <a
     href="https://discord.com/"
     target="_blank">
-      <img alt="discord" src="assets/discord" />  
+      <img alt="discord" src="assets/discord.svg" />  
   </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
-      <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="github" src="assets/github.svg" />
   </a>
   <a
     href="https://gitlab.com/gitlab-org/gitlab"
     target="_blank">
-      <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+      <img alt="gitlab" src="assets/gitlab.svg" />
   </a>    
 </div>
 </details>
