@@ -109,6 +109,11 @@
     target="_blank">
       <img alt="laravel" src="assets/laravel.svg" />
   </a>
+   <a
+    href="https://nodejs.org/en/"
+    target="_blank">
+      <img alt="nodejs" src="assets/nodejs.svg" />
+  </a>
   <a
     href="https://www.javascript.com/"
     target="_blank">
