@@ -170,9 +170,13 @@
 
 <div>
   <a href="https://github.com/vitielloL"/>
-  <img 
+  <!-- <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=VitielloL&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"
+  /> -->
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=VitielloL&show_icons=true&theme=github_dark&count_private=true"
   />
   <img 
     height="180em" 
