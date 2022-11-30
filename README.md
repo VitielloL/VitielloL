@@ -190,7 +190,7 @@
 </div>
 
 ## My finished projects and repositories
-<a href="https://github.com/stars/VitielloL/lists/finished-project" target="_blank">click to show more</a>
+<a href="https://github.com/stars/VitielloL/lists/my-finished-project" target="_blank">click to show more</a>
 
 ## Contacts
 <div>
