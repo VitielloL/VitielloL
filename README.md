@@ -189,6 +189,9 @@
   />
 </div>
 
+## My finished projects and repositories
+<a href="https://github.com/stars/VitielloL/lists/finished-project" target="_blank">click to show more</a>
+
 ## Contats
 <div>
   <a 
@@ -208,8 +211,3 @@
     <img alt="instagram" src="assets/instagram.svg">
     </a>
 </div>
-
-<br>
-
-## My finished projects and repositories
-<a href="https://github.com/stars/VitielloL/lists/finished-project" target="_blank">click to show more</a>
