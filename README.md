@@ -192,7 +192,7 @@
 ## My finished projects and repositories
 <a href="https://github.com/stars/VitielloL/lists/finished-project" target="_blank">click to show more</a>
 
-## Contats
+## Contacts
 <div>
   <a 
     href="https://www.linkedin.com/in/lucas-vitiello-4b94b4172/" 
