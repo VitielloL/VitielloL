@@ -7,92 +7,92 @@
   <a
     href="https://www.php.net/"
     target="_blank">
-      <img alt="php" src="assets/php.svg" />
+      <img alt="php" src="assets/VitielloLphp.svg" />
   </a>
   <a
     href="https://laravel.com/"
     target="_blank">
-      <img alt="laravel" src="assets/laravel.svg" />
+      <img alt="laravel" src="assets/VitielloLlaravel.svg" />
   </a>
   <a
     href="https://nodejs.org/en/"
     target="_blank">
-      <img alt="nodejs" src="assets/nodejs.svg" />
+      <img alt="nodejs" src="assets/VitielloLnodejs.svg" />
   </a>
   <a
     href="https://www.javascript.com/"
     target="_blank">
-      <img alt="javascript" src="assets/javascript.svg" />
+      <img alt="javascript" src="assets/VitielloLjavascript.svg" />
   </a>
   <a
     href="https://angular.io/"
     target="_blank">
-      <img alt="angular" src="assets/angular.svg" />  
+      <img alt="angular" src="assets/VitielloLangular.svg" />  
   </a>
   <a
     href="https://www.typescriptlang.org/"
     target="_blank">
-      <img alt="typescript" src="assets/typescript.svg" />
+      <img alt="typescript" src="assets/VitielloLtypescript.svg" />
   </a>
     <a
     href="https://www.mongodb.com/"
     target="_blank">
-      <img alt="mongodb" src="assets/mongodb.svg" />  
+      <img alt="mongodb" src="assets/VitielloLmongodb.svg" />  
   </a>
   <a
     href="https://www.microsoft.com/pt-br/sql-server"
     target="_blank">
-      <img alt="sqlserver" src="assets/sqlserver.svg" />
+      <img alt="sqlserver" src="assets/VitielloLsqlserver.svg" />
   </a>
   <a
     href="https://www.mysql.com/"
     target="_blank">
-      <img alt="mysql" src="assets/mysql.svg" />  
+      <img alt="mysql" src="assets/VitielloLmysql.svg" />  
   </a>
   <a
     href="https://getbootstrap.com/"
     target="_blank">
-      <img alt="bootstrap" src="assets/bootstrap.svg" />
+      <img alt="bootstrap" src="assets/VitielloLbootstrap.svg" />
   </a>
   <a 
     href="https://www.w3schools.com/html/" 
     target="_blank">
-      <img alt="html5" src="assets/html5.svg" />
+      <img alt="html5" src="assets/VitielloLhtml5.svg" />
   </a>
   <a
     href="https://sass-lang.com/"
     target="_blank">
-      <img alt="sass" src="assets/sass.svg"/>
+      <img alt="sass" src="assets/VitielloLsass.svg"/>
   </a>
   <a
     href="https://www.w3schools.com/css/"
     target="_blank">
-      <img alt="css3" src="assets/css3.svg" />
+      <img alt="css3" src="assets/VitielloLcss3.svg" />
   </a>
   <a
     href="https://trello.com/"
     target="_blank">
-      <img alt="trello" src="assets/trello.svg" />  
+      <img alt="trello" src="assets/VitielloLtrello.svg" />  
   </a>
   <!-- <a
     href="https://www.microsoft.com/pt-br/microsoft-teams"
     target="_blank">
-      <img alt="microsoftteams" src="assets/teams.svg" />
+      <img alt="microsoftteams" src="assets/VitielloLteams.svg" />
   </a> -->
   <!-- <a
     href="https://discord.com/"
     target="_blank">
-      <img alt="discord" src="assets/discord.svg" />  
+      <img alt="discord" src="assets/VitielloLdiscord.svg" />  
   </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
-      <img alt="github" src="assets/github.svg" />
+      <img alt="github" src="assets/VitielloLgithub.svg" />
   </a>
   <a
     href="https://gitlab.com/gitlab-org/gitlab"
     target="_blank">
-      <img alt="gitlab" src="assets/gitlab.svg" />
+      <img alt="gitlab" src="assets/VitielloLgitlab.svg" />
   </a>    
 </div>
 </details>
@@ -102,72 +102,72 @@
   <a
     href="https://www.php.net/"
     target="_blank">
-      <img alt="php" src="assets/php.svg" />
+      <img alt="php" src="assets/VitielloLphp.svg" />
   </a>
   <a
     href="https://laravel.com/"
     target="_blank">
-      <img alt="laravel" src="assets/laravel.svg" />
+      <img alt="laravel" src="assets/VitielloLlaravel.svg" />
   </a>
    <a
     href="https://nodejs.org/en/"
     target="_blank">
-      <img alt="nodejs" src="assets/nodejs.svg" />
+      <img alt="nodejs" src="assets/VitielloLnodejs.svg" />
   </a>
   <a
     href="https://www.javascript.com/"
     target="_blank">
-      <img alt="javascript" src="assets/javascript.svg" />
+      <img alt="javascript" src="assets/VitielloLjavascript.svg" />
   </a>
   <a
     href="https://www.microsoft.com/pt-br/sql-server"
     target="_blank">
-      <img alt="sqlserver" src="assets/sqlserver.svg" />
+      <img alt="sqlserver" src="assets/VitielloLsqlserver.svg" />
   </a>
   <a
     href="https://www.mysql.com/"
     target="_blank">
-      <img alt="mysql" src="assets/mysql.svg" />  
+      <img alt="mysql" src="assets/VitielloLmysql.svg" />  
   </a>
   <a
     href="https://getbootstrap.com/"
     target="_blank">
-      <img alt="bootstrap" src="assets/bootstrap.svg" />
+      <img alt="bootstrap" src="assets/VitielloLbootstrap.svg" />
   </a>
   <a 
     href="https://www.w3schools.com/html/" 
     target="_blank">
-      <img alt="html5" src="assets/html5.svg" />
+      <img alt="html5" src="assets/VitielloLhtml5.svg" />
   </a>
   <a
     href="https://sass-lang.com/"
     target="_blank">
-      <img alt="sass" src="assets/sass.svg"/>
+      <img alt="sass" src="assets/VitielloLsass.svg"/>
   </a>
   <a
     href="https://www.w3schools.com/css/"
     target="_blank">
-      <img alt="css3" src="assets/css3.svg" />
+      <img alt="css3" src="assets/VitielloLcss3.svg" />
   </a>
   <a
     href="https://trello.com/"
     target="_blank">
-      <img alt="trello" src="assets/trello.svg" />  
+      <img alt="trello" src="assets/VitielloLtrello.svg" />  
   </a>
   <!-- <a
     href="https://www.microsoft.com/pt-br/microsoft-teams"
     target="_blank">
-      <img alt="microsoftteams" src="assets/teams.svg" />
+      <img alt="microsoftteams" src="assets/VitielloLteams.svg" />
   </a> -->
   <!-- <a
     href="https://discord.com/"
     target="_blank">
-      <img alt="discord" src="assets/discord.svg" />  
+      <img alt="discord" src="assets/VitielloLdiscord.svg" />  
   </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
-      <img alt="github" src="assets/github.svg" />
+      <img alt="github" src="assets/VitielloLgithub.svg" />
   </a>
 </div>
 
@@ -195,16 +195,16 @@
     href="https://www.linkedin.com/in/lucas-vitiello-4b94b4172/" 
     target="_blank" 
     rel="noopener">
-    <img alt="linkedin" src="assets/linkedin.svg">
+    <img alt="linkedin" src="assets/VitielloLlinkedin.svg">
   </a>
   <a 
     href="mailto:lucasvitiello@gmail.com">
-    <img alt="gmail" src="assets/gmail.svg" target="_blank">
+    <img alt="gmail" src="assets/VitielloLgmail.svg" target="_blank">
   </a>
   <a 
     href="https://www.instagram.com/vitiellolucas/" 
     target="_blank" 
     rel="noopener"> 
-    <img alt="instagram" src="assets/instagram.svg">
+    <img alt="instagram" src="assets/VitielloLinstagram.svg">
     </a>
 </div>
