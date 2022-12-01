@@ -181,7 +181,7 @@
   /> -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=VitielloL&show_icons=true&theme=github_dark&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=VitielloL&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"
   />
   <img 
     height="180em" 
@@ -189,7 +189,10 @@
   />
 </div>
 
-## Contats
+## My finished projects and repositories
+<a href="https://github.com/stars/VitielloL/lists/my-finished-project" target="_blank">click to show more</a>
+
+## Contacts
 <div>
   <a 
     href="https://www.linkedin.com/in/lucas-vitiello-4b94b4172/" 
