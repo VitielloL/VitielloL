@@ -1,5 +1,8 @@
 # Hey, I'm Lucas Vitiello a developer
-<!-- I already worked with -->
+
+## My page with some projects I developed
+<a href="https://vitiello-portfolio.vercel.app/" target="_blank">https://vitiello-portfolio.vercel.app/</a>
+
 ## Technologies I've worked on
 <details><summary>click to show more</summary>
 <br>
@@ -188,9 +191,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitielloL&layout=compact&langs_count=16&theme=github_dark"
   />
 </div>
-
-## My finished projects and repositories
-<a href="https://github.com/stars/VitielloL/lists/my-finished-project" target="_blank">click to show more</a>
 
 ## Contacts
 <div>
