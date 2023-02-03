@@ -112,7 +112,12 @@ I've been programming for 1 year and a half and I’m always looking to study an
     href="https://gitlab.com/gitlab-org/gitlab"
     target="_blank">
       <img alt="gitlab" src="assets/VitielloLgitlab.svg" />
-  </a>    
+  </a>
+    <a
+    href="https://azure.microsoft.com/en-us/products/devops/?nav=min"
+    target="_blank">
+      <img alt="azuredevops" src="assets/VitielloLazuredevops.svg" />
+  </a>       
 </div>
 </details>
 
@@ -164,9 +169,9 @@ I've been programming for 1 year and a half and I’m always looking to study an
       <img alt="css3" src="assets/VitielloLcss3.svg" />
   </a>
   <a
-    href="https://github.com/VitielloL"
+    href="https://azure.microsoft.com/en-us/products/devops/?nav=min"
     target="_blank">
-      <img alt="github" src="assets/VitielloLgithub.svg" />
+      <img alt="azuredevops" src="assets/VitielloLazuredevops.svg" />
   </a>
 </div>
 
