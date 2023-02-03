@@ -11,7 +11,7 @@ I've been programming for 1 year and a half and I’m always looking to study an
   <a
     href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
     target="_blank">
-      <img alt="c-sharp" src="assets/VitielloLc#.svg" />
+      <img alt="c-sharp" src="assets/VitielloLcsharp.svg" />
   </a>
     <a
     href="https://dotnet.microsoft.com/pt-br/"
@@ -121,7 +121,7 @@ I've been programming for 1 year and a half and I’m always looking to study an
   <a
     href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
     target="_blank">
-      <img alt="c-sharp" src="assets/VitielloLc#.svg" />
+      <img alt="c#" src="assets/VitielloLcsharp.svg" />
   </a>
   <a
     href="https://dotnet.microsoft.com/pt-br/"
