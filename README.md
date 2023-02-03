@@ -11,17 +11,17 @@ I've been programming for 1 year and a half and I’m always looking to study an
   <a
     href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
     target="_blank">
-      <img alt="c-sharp" src="assets/VitielloLc-sharp.png" />
+      <img alt="c-sharp" src="assets/VitielloLc#.svg" />
   </a>
     <a
     href="https://dotnet.microsoft.com/pt-br/"
     target="_blank">
-      <img alt="dotnet" src="assets/VitielloLdotnet.png" />
+      <img alt="dotnet" src="assets/VitielloLdotnet.svg" />
   </a>
     <a
     href="https://jquery.com/"
     target="_blank">
-      <img alt="jquery" src="assets/VitielloLjquery.png" />
+      <img alt="jquery" src="assets/VitielloLjquery.svg" />
   </a>
   <a
     href="https://www.php.net/"
@@ -121,17 +121,17 @@ I've been programming for 1 year and a half and I’m always looking to study an
   <a
     href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
     target="_blank">
-      <img alt="c-sharp" src="assets/VitielloLc-sharp.png" />
+      <img alt="c-sharp" src="assets/VitielloLc#.svg" />
   </a>
   <a
     href="https://dotnet.microsoft.com/pt-br/"
     target="_blank">
-      <img alt="dotnet" src="assets/VitielloLdotnet.png" />
+      <img alt="dotnet" src="assets/VitielloLdotnet.svg" />
   </a>
   <a
     href="https://jquery.com/"
     target="_blank">
-      <img alt="jquery" src="assets/VitielloLjquery.png" />
+      <img alt="jquery" src="assets/VitielloLjquery.svg" />
   </a>
   <a
     href="https://www.javascript.com/"
