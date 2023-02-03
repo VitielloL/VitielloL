@@ -5,6 +5,21 @@
 <br>
 <div style="display: inline_block">
   <a
+    href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
+    target="_blank">
+      <img alt="c-sharp" src="assets/VitielloLc-sharp.png" />
+  </a>
+    <a
+    href="https://dotnet.microsoft.com/pt-br/"
+    target="_blank">
+      <img alt="dotnet" src="assets/VitielloLdotnet.png" />
+  </a>
+    <a
+    href="https://jquery.com/"
+    target="_blank">
+      <img alt="jquery" src="assets/VitielloLjquery.png" />
+  </a>
+  <a
     href="https://www.php.net/"
     target="_blank">
       <img alt="php" src="assets/VitielloLphp.svg" />
@@ -100,19 +115,19 @@
 ## Technologies I work on
 <div style="display: inline_block">
   <a
-    href="https://www.php.net/"
+    href="https://learn.microsoft.com/pt-br/dotnet/csharp/"
     target="_blank">
-      <img alt="php" src="assets/VitielloLphp.svg" />
+      <img alt="c-sharp" src="assets/VitielloLc-sharp.png" />
   </a>
   <a
-    href="https://laravel.com/"
+    href="https://dotnet.microsoft.com/pt-br/"
     target="_blank">
-      <img alt="laravel" src="assets/VitielloLlaravel.svg" />
+      <img alt="dotnet" src="assets/VitielloLdotnet.png" />
   </a>
-   <a
-    href="https://nodejs.org/en/"
+  <a
+    href="https://jquery.com/"
     target="_blank">
-      <img alt="nodejs" src="assets/VitielloLnodejs.svg" />
+      <img alt="jquery" src="assets/VitielloLjquery.png" />
   </a>
   <a
     href="https://www.javascript.com/"
@@ -123,11 +138,6 @@
     href="https://www.microsoft.com/pt-br/sql-server"
     target="_blank">
       <img alt="sqlserver" src="assets/VitielloLsqlserver.svg" />
-  </a>
-  <a
-    href="https://www.mysql.com/"
-    target="_blank">
-      <img alt="mysql" src="assets/VitielloLmysql.svg" />  
   </a>
   <a
     href="https://getbootstrap.com/"
@@ -149,21 +159,6 @@
     target="_blank">
       <img alt="css3" src="assets/VitielloLcss3.svg" />
   </a>
-  <a
-    href="https://trello.com/"
-    target="_blank">
-      <img alt="trello" src="assets/VitielloLtrello.svg" />  
-  </a>
-  <!-- <a
-    href="https://www.microsoft.com/pt-br/microsoft-teams"
-    target="_blank">
-      <img alt="microsoftteams" src="assets/VitielloLteams.svg" />
-  </a> -->
-  <!-- <a
-    href="https://discord.com/"
-    target="_blank">
-      <img alt="discord" src="assets/VitielloLdiscord.svg" />  
-  </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
