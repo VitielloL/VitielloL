@@ -93,16 +93,6 @@ I've been programming for 1 year and a half and I’m always looking to study an
     target="_blank">
       <img alt="trello" src="assets/VitielloLtrello.svg" />  
   </a>
-  <!-- <a
-    href="https://www.microsoft.com/pt-br/microsoft-teams"
-    target="_blank">
-      <img alt="microsoftteams" src="assets/VitielloLteams.svg" />
-  </a> -->
-  <!-- <a
-    href="https://discord.com/"
-    target="_blank">
-      <img alt="discord" src="assets/VitielloLdiscord.svg" />  
-  </a> -->
   <a
     href="https://github.com/VitielloL"
     target="_blank">
