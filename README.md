@@ -1,5 +1,5 @@
 # Hey, I'm Lucas Vitiello a developer
-I've been programming for 2 and a half years and I’m always looking to study and develop new projects to feed my knowledge and my github. My social networks, portfolio and contacts are just below.
+I've been programming for 3 and a half years and I’m always looking to study and develop new projects to feed my knowledge and my github. My social networks, portfolio and contacts are just below.
 
 ## My page with projects I developed
 <a href="https://vitiello-portfolio.vercel.app/" target="_blank">https://vitiello-portfolio.vercel.app/</a>
