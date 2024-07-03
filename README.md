@@ -1,5 +1,5 @@
 # Hey, I'm Lucas Vitiello a developer
-I've been programming for 1 year and a half and I’m always looking to study and develop new projects to feed my knowledge and my github. My social networks, portfolio and contacts are just below.
+I have been a programmer for 3.5 years, constantly seeking to learn and develop new projects to expand my knowledge and enrich my GitHub portfolio. My social media, portfolio, professional experiences with technologies, and contact information are listed below.
 
 ## My page with projects I developed
 <a href="https://vitiello-portfolio.vercel.app/" target="_blank">https://vitiello-portfolio.vercel.app/</a>
@@ -53,7 +53,12 @@ I've been programming for 1 year and a half and I’m always looking to study an
     target="_blank">
       <img alt="typescript" src="assets/VitielloLtypescript.svg" />
   </a>
-    <a
+  <a
+    href="https://nextjs.org//"
+    target="_blank">
+      <img alt="typescript" src="assets/VitielloLnext.svg" />
+  </a>
+  <a
     href="https://www.mongodb.com/"
     target="_blank">
       <img alt="mongodb" src="assets/VitielloLmongodb.svg" />  
@@ -133,6 +138,16 @@ I've been programming for 1 year and a half and I’m always looking to study an
     target="_blank">
       <img alt="javascript" src="assets/VitielloLjavascript.svg" />
   </a>
+    <a
+    href="https://www.typescriptlang.org/"
+    target="_blank">
+      <img alt="typescript" src="assets/VitielloLtypescript.svg" />
+  </a>
+    <a
+    href="https://nextjs.org//"
+    target="_blank">
+      <img alt="typescript" src="assets/VitielloLnext.svg" />
+  </a>
   <a
     href="https://www.microsoft.com/pt-br/sql-server"
     target="_blank">
@@ -166,7 +181,6 @@ I've been programming for 1 year and a half and I’m always looking to study an
 </div>
 
 ## Git Status
-
 <div>
   <a href="https://github.com/vitielloL"/>
   <!-- <img 
