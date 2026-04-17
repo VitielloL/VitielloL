@@ -9,7 +9,7 @@ Desenvolvedor full-stack com 6 anos de experiência em aplicações web, APIs e 
   <summary>Clique para ver as tecnologias</summary>
   <br />
   <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
-    <img alt="AWS" title="AWS" width="40" src="https://cdn.simpleicons.org/amazonaws" />
+    <img alt="AWS" title="AWS" width="40" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/amazon-web-services.svg" />
     <img alt="Next.js" title="Next.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
     <img alt="React" title="React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img alt="Node.js" title="Node.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
@@ -54,5 +54,4 @@ Desenvolvedor full-stack com 6 anos de experiência em aplicações web, APIs e 
   <a href="https://www.instagram.com/vitiellolucas/" target="_blank" rel="noopener">
     <img alt="Instagram" title="Instagram" width="32" src="https://cdn.simpleicons.org/instagram" />
   </a>
-  <a href="https://github.com/VitielloL" target="_blank" rel="noopener">github.com/VitielloL</a>
 </div>
