@@ -10,7 +10,7 @@ Desenvolvedor full-stack com 6 anos de experiência em aplicações web, APIs e 
   <br />
   <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
     <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-      <img alt="AWS" title="AWS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+      <img alt="AWS" title="AWS" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
       <img alt="Next.js" title="Next.js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
