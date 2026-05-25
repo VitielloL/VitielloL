@@ -2,7 +2,7 @@
 Desenvolvedor full-stack com 6 anos de experiência em aplicações web, APIs e automação. Atualmente atuo com .NET/C#, Next.js, React e TypeScript/JavaScript, além de AWS (Lambda, EMR, S3/Buckets) e bancos de dados SQL Server ou PostgreSQL.
 
 ## Portfólio
-- [Meu portfólio](https://vitiello-portfolio.vercel.app/)
+- [Meu portfólio](https://vit-developer-portfolio.vercel.app/)
 
 ## Tecnologias
 <details>
@@ -86,12 +86,6 @@ Desenvolvedor full-stack com 6 anos de experiência em aplicações web, APIs e 
     </a>
   </div>
 </details>
-
-## GitHub
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VitielloL&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitielloL&layout=compact&langs_count=16&theme=github_dark" />
-</div>
 
 ## Contato
 <div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: center;">
